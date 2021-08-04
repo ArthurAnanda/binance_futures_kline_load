@@ -1,0 +1,2 @@
+# binance_futures_kline_load
+币安永续合约k线数据下载服务
